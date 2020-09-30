@@ -1,6 +1,6 @@
 package main
 
-import "github.com/tezzzka/intro/hw01/converter.go"
+import converter "github.com/tezzzka/intro/hw01"
 
 func main() {
 	converter.Calc()

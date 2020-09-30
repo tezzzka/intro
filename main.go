@@ -1,7 +1,11 @@
 package main
 
-import converter "github.com/tezzzka/intro/hw01"
+import (
+	test1 "github.com/tezzzka/intro/hw01"
+	test2 "github.com/tezzzka/intro/hw01"
+)
 
 func main() {
-	converter.Calc()
+	test1.Calc()
+	test2.Ma()
 }
